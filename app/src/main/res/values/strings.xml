@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HSK Vocabulary</string>
+    <string name="admob_app_id">ca-app-pub-4956851260856444~3173243929</string>
+
+    <!-- Navigation -->
+    <string name="nav_back">Back</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">HSK</string>
+    <string name="section_level">LEVEL</string>
+    <string name="section_practice">PRACTICE</string>
+    <string name="section_other">OTHER</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="quiz_history">Quiz History</string>
+    <string name="rate_app">Rate App</string>
+    <string name="contacts">Contacts</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="select_level_for_quiz">Select Level for Quiz</string>
+    <string name="select_level_for_flashcard">Select Level for Flashcard</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Level Words -->
+    <string name="search_placeholder">中文, pinyin, translation</string>
+    <string name="no_results_found">No results found</string>
+    <string name="no_results_for">No results found for \"%s\"</string>
+    <string name="no_words">No words</string>
+    <string name="words_not_loaded">Words haven\'t been loaded yet</string>
+    <string name="word_added_to_bookmarks">Word added to bookmarks</string>
+    <string name="word_removed_from_bookmarks">Word removed from bookmarks</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+
+    <!-- Word Detail -->
+    <string name="copy">Copy</string>
+    <string name="speak">Speak</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="definition">Definition</string>
+    <string name="example">Example</string>
+    <string name="classifier">Classifier</string>
+
+    <!-- Quiz -->
+    <string name="mix_all">Mix all</string>
+    <string name="listen_to_guess">Listen to guess</string>
+    <string name="not_enough_words">Not enough words</string>
+    <string name="correct">Correct</string>
+    <string name="duration">Duration</string>
+    <string name="repeat">Repeat</string>
+    <string name="complete">Complete</string>
+    <string name="next">Next</string>
+    <string name="perfect_score">Wow! Keep up the good work! All answers are correct!</string>
+    <string name="part_format">Part %d</string>
+
+    <!-- Quiz Result Rating Messages (matching iOS) -->
+    <string name="rating_none">Don\'t despair! Everything will work out!</string>
+    <string name="rating_one_star">Not bad! More is better!</string>
+    <string name="rating_two_star">Good! Keep it up!</string>
+    <string name="rating_three_star">Excellent! One step closer to your dream!</string>
+
+    <!-- Flashcard -->
+    <string name="normal_mode">Normal</string>
+    <string name="timer_mode">Timer</string>
+    <string name="show_translation">Show translation</string>
+    <string name="hide_translation">Hide translation</string>
+    <string name="review_label">REVIEW</string>
+    <string name="remember_label">REMEMBER</string>
+    <string name="words_progress_format">%d / %d words</string>
+    <string name="swipe_flashcard_subtitle">Swipe-based learning</string>
+    <string name="timer_flashcard_subtitle">Auto-advance cards</string>
+
+    <!-- Leaderboard -->
+    <string name="no_results_yet">No results yet</string>
+    <string name="be_the_first">Be the first to complete a quiz!</string>
+    <string name="set_nickname">Set Nickname</string>
+    <string name="nickname_visible_on_leaderboard">This nickname will be visible on the leaderboard</string>
+    <string name="nickname">Nickname</string>
+    <string name="save">Save</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="progress">Progress</string>
+    <string name="quizzes_completed">%d quizzes completed</string>
+    <string name="edit_nickname">Edit nickname</string>
+    <string name="parts_correct_format">%d/%d parts | %d correct</string>
+
+    <!-- Practice Types -->
+    <string name="practice_quiz">Quiz</string>
+    <string name="practice_quiz_subtitle">Test yourself</string>
+    <string name="practice_flashcard">Flashcard</string>
+    <string name="practice_flashcard_subtitle">Repeat words</string>
+    <string name="practice_online_test">Online Test</string>
+    <string name="practice_online_test_subtitle">Test your chances</string>
+
+    <!-- Language Selection -->
+    <string name="language_selection">Language</string>
+    <string name="download">Download</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="active">Active</string>
+
+    <!-- Contacts -->
+    <string name="version_format">Version %s</string>
+
+    <!-- Preload -->
+    <string name="loading_words">Loading words…</string>
+
+    <!-- Misc -->
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="internet_restored">Internet connection restored</string>
+</resources>
